@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { margin: 0; font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+
+/* Game iframe player */
+.game-player { width: 100%; border: none; background: #0a0a0a; border-radius: 8px; box-shadow: 0 4px 24px rgba(0,0,0,0.5); }
